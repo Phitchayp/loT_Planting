@@ -26,8 +26,14 @@
 - Adapter 12V
 - Step Down 12V -> 5V
 
-## Installation and Setup
+## Image
 
-1. Clone the repository
-   ```bash
-   
+* Hardware
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/79a1294a-23d0-4f56-ad29-f12c514d0965" style="width: 30%;">
+</div>
+
+* Tree
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/f8db1427-01d8-49f1-bbdb-f7fda7b0903c" style="width: 30%;">
+</div>
